@@ -1,6 +1,7 @@
 DAY 1: Introduction to Python Fundamentals
 
-Welcome to Day 1 of our Python programming course! In this session, we'll lay the foundation by covering essential concepts such as data types, variables, conditional statements, looping statements, and sequence data types in Python. Additionally, we'll conclude the session with a simple project to apply what we've learned. Let's get started!
+Welcome to Day 1 of our Python programming course! In this session, we'll lay the foundation by covering essential concepts such as data types, variables, conditional statements, 
+looping statements, and sequence data types in Python. Additionally, we'll conclude the session with a simple project to apply what we've learned. Let's get started!
 
 1. Data Types:
 
@@ -38,4 +39,5 @@ Sets: Unordered collections of unique elements.
 6. Simple Project:
 
 To reinforce our understanding of the concepts covered, we'll work on a simple project together. Stay tuned!
-That concludes our overview of today's topics. By the end of this session, you'll have a solid grasp of Python fundamentals, setting the stage for more advanced concepts in the days to come. Let's dive into the world of Python programming together!
+That concludes our overview of today's topics. By the end of this session, you'll have a solid grasp of Python fundamentals, 
+setting the stage for more advanced concepts in the days to come. Let's dive into the world of Python programming together!
