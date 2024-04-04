@@ -10,6 +10,7 @@ Integer (int): Whole numbers without decimal points.
 Float (float): Numbers with decimal points.
 String (str): Sequence of characters enclosed in single or double quotes.
 Boolean (bool): Represents True or False values.
+
 2. Variables:
 
 Variables are used to store data values. In Python, variables are created when you assign a value to them using the assignment operator =. For example:
@@ -17,17 +18,20 @@ python
 Copy code
 x = 10
 name = "Alice"
+
 3. Conditional Statements:
 
 Conditional statements allow us to make decisions in our programs based on certain conditions. Key constructs include:
 if statement: Executes a block of code if a specified condition is true.
 elif statement: Allows for additional conditions to be checked after the initial if statement.
 else statement: Executes a block of code if none of the preceding conditions are true.
+
 4. Looping Statements:
 
 Looping statements are used to execute a block of code repeatedly. In Python, we have two main types of loops:
 for loop: Iterates over a sequence (e.g., list, tuple, string) or a range of numbers.
 while loop: Continues to execute a block of code as long as a specified condition is true.
+
 5. Sequence Data Types in Python:
 
 Python provides several built-in sequence data types, including:
@@ -36,6 +40,7 @@ Tuples: Ordered and immutable collections of items.
 Strings: Immutable sequences of characters.
 Dictionaries: Unordered collections of key-value pairs.
 Sets: Unordered collections of unique elements.
+
 6. Simple Project:
 
 To reinforce our understanding of the concepts covered, we'll work on a simple project together. Stay tuned!
